@@ -25,7 +25,7 @@ Analisis teknis sistem kelistrikan kereta diesel elektrik selama kerja praktik.
 
 ---
 
-### 🧰 Kontrol Sensor Berbasis Arduino
+### 🧰 Project Berbasis Arduino
 Proyek prototipe dan eksperimen menggunakan Arduino untuk tugas-tugas otomasi dan kontrol.  
 **Teknologi:** Arduino C++, Visual Studio Code  
 🔗 [Lihat Repositori](https://github.com/bagasmalik/arduino-projects)
