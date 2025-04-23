@@ -1,16 +1,55 @@
-## Hi there 👋
+# 👋 Halo, saya Bagas Abdul Malik
 
-<!--
-**bagasmalik/bagasmalik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Lulusan baru Teknik Elektro dari Universitas Islam Indonesia  
+🔧 Tertarik pada bidang IoT, Sistem Otomasi, dan Pengolahan Citra  
+🌱 Saat ini sedang mencari peluang kerja sebagai Junior Engineer atau Pengembang IoT
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📂 Proyek Unggulan
+
+### 🚜 Sistem Monitoring Kualitas Benih Padi (IoT + Pengolahan Citra)
+Sistem monitoring cerdas untuk menilai kualitas benih padi menggunakan teknologi pengolahan citra dan IoT.  
+**Teknologi:** Python, Roboflow, Google Colab, Raspberry Pi 4 Model B  
+**Poin Penting:**  
+- Akurasi klasifikasi citra mencapai 75%  
+- Monitoring data secara real-time dengan sensor dan kamera  
+🔗 [Lihat Proyek](Link)
+
+---
+
+### 🚆 Analisis Sistem Kelistrikan Kereta Diesel Elektrik (Kerja Praktik di PT INKA)
+Analisis teknis sistem kelistrikan kereta diesel elektrik selama kerja praktik.  
+**Topik:** Generator, motor traksi, distribusi daya, kontrol elektronik  
+🔗 [Lihat Laporan Proyek](Link)
+
+---
+
+### 🧰 Kontrol Sensor Berbasis Arduino
+Proyek prototipe dan eksperimen menggunakan Arduino untuk tugas-tugas otomasi dan kontrol.  
+**Teknologi:** Arduino C++, Visual Studio Code  
+🔗 [Lihat Repositori](Link)
+
+---
+
+## 🎨 Portofolio Desain 3D
+Kumpulan desain 3D menggunakan SketchUp untuk ilustrasi teknis dan pemodelan.  
+🔗 [Lihat Desain](Link)
+
+---
+
+## 📜 Sertifikasi
+- 🛡️ Sertifikat AK3 Umum – KEMNAKER RI  
+- 🔥 Pelatihan Dasar Pemadaman Kebakaran  
+- 🚑 Pelatihan Dasar Pertolongan Pertama  
+🔗 [Lihat Sertifikat](Link)
+
+---
+
+## 📫 Hubungi Saya
+- 📧 Email: abdulmalikbagas9@gmail.com  
+- 🔗 LinkedIn: [linkedin.com/in/bagas-abdul-malik-149539334](https://linkedin.com/in/bagas-abdul-malik-149539334)
+
+---
+
+> “Rekayasa bukan hanya soal menyelesaikan masalah, tapi menciptakan solusi yang berdampak.”
