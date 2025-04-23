@@ -21,7 +21,7 @@ Sistem monitoring cerdas untuk menilai kualitas benih padi menggunakan teknologi
 ### 🚆 Analisis Sistem Kelistrikan Kereta Diesel Elektrik (Kerja Praktik di PT INKA)
 Analisis teknis sistem kelistrikan kereta diesel elektrik selama kerja praktik.  
 **Topik:** Generator, motor traksi, distribusi daya, kontrol elektronik  
-🔗 [Lihat Laporan Proyek](https://github.com/bagasmalik/train-electrical-system)
+🔗 [Lihat Laporan Proyek](https://github.com/bagasmalik/sistem-kelistrikan-KRDE)
 
 ---
 
