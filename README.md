@@ -38,12 +38,18 @@ Kumpulan desain 3D menggunakan SketchUp untuk ilustrasi teknis dan pemodelan.
 
 ---
 
-## 📜 Sertifikasi
+## 📜 Pelatihan dan Sertifikat
 - 🛡️ Sertifikat AK3 Umum – KEMNAKER RI  
 - 🔥 Pelatihan Dasar Pemadaman Kebakaran  
-- 🚑 Pelatihan Dasar Pertolongan Pertama  
+- 🚑 Pelatihan Dasar Pertolongan Pertama 
 🔗 [Lihat Sertifikat](https://github.com/bagasmalik/certifications)
 
+---
+### 🏅 Sertifikat Kepanitiaan
+
+- **Wakil Ketua OC - Electrical Study Camp**  
+  UII, 2023  
+  🔗 [Lihat Sertifikat](https://github.com/bagasmalik/sertifikat-kepanitiaan)
 ---
 
 ## 📫 Hubungi Saya
