@@ -48,7 +48,7 @@ Kumpulan desain 3D menggunakan SketchUp untuk ilustrasi teknis dan pemodelan.
 ### 🏅 Sertifikat Kepanitiaan
 
 - **Wakil Ketua OC - Electrical Study Camp**  
-  UII, 2023  
+  UII, 2022  
   🔗 [Lihat Sertifikat](https://github.com/bagasmalik/sertifikat-kepanitiaan)
 ---
 
