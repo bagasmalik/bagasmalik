@@ -14,27 +14,27 @@ Sistem monitoring cerdas untuk menilai kualitas benih padi menggunakan teknologi
 **Poin Penting:**  
 - Akurasi klasifikasi citra mencapai 75%  
 - Monitoring data secara real-time dengan sensor dan kamera  
-🔗 [Lihat Proyek](Link)
+🔗 [Lihat Proyek](https://github.com/bagasmalik/padi-monitor)
 
 ---
 
 ### 🚆 Analisis Sistem Kelistrikan Kereta Diesel Elektrik (Kerja Praktik di PT INKA)
 Analisis teknis sistem kelistrikan kereta diesel elektrik selama kerja praktik.  
 **Topik:** Generator, motor traksi, distribusi daya, kontrol elektronik  
-🔗 [Lihat Laporan Proyek](Link)
+🔗 [Lihat Laporan Proyek](https://github.com/bagasmalik/train-electrical-system)
 
 ---
 
 ### 🧰 Kontrol Sensor Berbasis Arduino
 Proyek prototipe dan eksperimen menggunakan Arduino untuk tugas-tugas otomasi dan kontrol.  
 **Teknologi:** Arduino C++, Visual Studio Code  
-🔗 [Lihat Repositori](Link)
+🔗 [Lihat Repositori](https://github.com/bagasmalik/arduino-projects)
 
 ---
 
 ## 🎨 Portofolio Desain 3D
 Kumpulan desain 3D menggunakan SketchUp untuk ilustrasi teknis dan pemodelan.  
-🔗 [Lihat Desain](Link)
+🔗 [Lihat Desain](https://github.com/bagasmalik/3d-design-sketchup)
 
 ---
 
@@ -42,7 +42,7 @@ Kumpulan desain 3D menggunakan SketchUp untuk ilustrasi teknis dan pemodelan.
 - 🛡️ Sertifikat AK3 Umum – KEMNAKER RI  
 - 🔥 Pelatihan Dasar Pemadaman Kebakaran  
 - 🚑 Pelatihan Dasar Pertolongan Pertama  
-🔗 [Lihat Sertifikat](Link)
+🔗 [Lihat Sertifikat](https://github.com/bagasmalik/certifications)
 
 ---
 
