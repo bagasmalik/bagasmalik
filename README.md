@@ -1,8 +1,9 @@
 # 👋 Halo, saya Bagas Abdul Malik
 
 🎓 Lulusan baru Teknik Elektro dari Universitas Islam Indonesia  
-🔧 Tertarik pada bidang IoT, Sistem Otomasi, dan Pengolahan Citra  
-🌱 Saat ini sedang mencari peluang kerja sebagai Junior Engineer atau Pengembang IoT
+🔧 Memiliki minat kuat di bidang IoT, Sistem Otomasi, dan Pengolahan Citra  
+🌱 Terbuka untuk peluang kerja sebagai **Junior Engineer**, **Pengembang IoT**, maupun posisi strategis seperti **Management Trainee (MT)** di sektor teknik dan industri  
+🛡️ Juga memiliki ketertarikan pada bidang **Keselamatan dan Kesehatan Kerja (K3)** sebagai bagian dari upaya menciptakan lingkungan kerja yang aman dan efisien
 
 ---
 
