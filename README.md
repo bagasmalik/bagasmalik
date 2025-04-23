@@ -55,7 +55,7 @@ Kumpulan desain 3D menggunakan SketchUp untuk ilustrasi teknis dan pemodelan.
 
 ## 📫 Hubungi Saya
 - 📧 Email: abdulmalikbagas9@gmail.com  
-- 🔗 LinkedIn: [linkedin.com/in/bagas-abdul-malik-149539334](https://linkedin.com/in/bagas-abdul-malik-149539334)
+- 🔗 LinkedIn: [www.linkedin.com/in/bagas-am](www.linkedin.com/in/bagas-am)
 
 ---
 
